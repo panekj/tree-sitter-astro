@@ -1,4 +1,8 @@
 {
+  "0": "h",
+  "1": "t",
+  "2": "m",
+  "3": "l",
   "name": "astro",
   "rules": {
     "document": {
@@ -817,4 +821,3 @@
   "inline": [],
   "supertypes": []
 }
-
